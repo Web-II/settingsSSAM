@@ -1,0 +1,23 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabCompletion": "on",
+    "editor.wordWrap": "on",
+    "html.format.preserveNewLines": false,
+    "html.format.wrapAttributes": "aligned-multiple",
+    "javascript.preferences.quoteStyle": "single",
+    "css.format.newlineBetweenSelectors": false,
+    "css.format.spaceAroundSelectorSeparator": true,
+    "editor.defaultFormatter": "vscode.html-language-features",
+        "[javascript]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode",
+        },
+        "[css]": {
+          "editor.defaultFormatter": "vscode.css-language-features",
+        },
+        "editor.fontSize": 24,
+        "liveServer.settings.CustomBrowser": "chrome",
+        "editor.minimap.enabled": false,
+        "editor.stickyScroll.enabled": false,
+        "workbench.colorTheme": "Quiet Light",
+        "liveServer.settings.donotShowInfoMsg": true
+}
